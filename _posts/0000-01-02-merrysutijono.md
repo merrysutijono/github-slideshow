@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+There are no mistakes. Only happy accidents.
 Use the left arrow to go back!
